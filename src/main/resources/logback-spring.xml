@@ -2,8 +2,8 @@
 <configuration>
 
     <!-- Setting up log path and log file name -->
-    <property name="LOG_PATH" value="./logs" />
-    <property name="LOG_FILE_NAME" value="application_logback" />
+    <property name="LOG_PATH" value="./config" />
+    <property name="LOG_FILE_NAME" value="logstash.conf" />
 
     <!-- Setting up logging pattern for console logging -->
     <appender name="ConsoleOutput"
@@ -51,3 +51,17 @@
     </logger>
 
 </configuration>
+
+
+
+<!--<configuration>-->
+<!--    &lt;!&ndash; Console Appender with JSON Encoder &ndash;&gt;-->
+<!--    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">-->
+<!--        <encoder class="net.logstash.logback.encoder.LoggingEventCompositeJsonEncoder" />-->
+<!--    </appender>-->
+
+<!--    &lt;!&ndash; Root logger level set to INFO &ndash;&gt;-->
+<!--    <root level="INFO">-->
+<!--        <appender-ref ref="CONSOLE"/>-->
+<!--    </root>-->
+<!--</configuration>-->

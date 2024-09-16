@@ -127,3 +127,68 @@ Unconditional classes:
 2024-09-13 16:22:03 [restartedMain] INFO  : Tomcat started on port 8080 (http) with context path '/'
 2024-09-13 16:22:03 [restartedMain] INFO  : Started LoggingAndActuatorApplication in 4.514 seconds (process running for 498.096)
 2024-09-13 16:22:03 [restartedMain] INFO  : Condition evaluation unchanged
+2024-09-16 15:55:39 [restartedMain] INFO  : Starting LoggingAndActuatorApplication using Java 22.0.1 with PID 10184 (C:\Users\Gertrude\Downloads\LoggingAndActuator\LoggingAndActuator\target\classes started by Gertrude in C:\Users\Gertrude\Downloads\LoggingAndActuator\LoggingAndActuator)
+2024-09-16 15:55:39 [restartedMain] INFO  : No active profile set, falling back to 1 default profile: "default"
+2024-09-16 15:55:39 [restartedMain] INFO  : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-16 15:55:39 [restartedMain] INFO  : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-16 15:55:41 [restartedMain] INFO  : Tomcat initialized with port 8080 (http)
+2024-09-16 15:55:41 [restartedMain] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2024-09-16 15:55:41 [restartedMain] INFO  : Starting service [Tomcat]
+2024-09-16 15:55:41 [restartedMain] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-16 15:55:42 [restartedMain] INFO  : Initializing Spring embedded WebApplicationContext
+2024-09-16 15:55:42 [restartedMain] INFO  : Root WebApplicationContext: initialization completed in 2779 ms
+2024-09-16 15:55:43 [restartedMain] INFO  : LiveReload server is running on port 35729
+2024-09-16 15:55:43 [restartedMain] INFO  : Exposing 1 endpoint beneath base path '/actuator'
+2024-09-16 15:55:43 [restartedMain] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2024-09-16 15:55:43 [restartedMain] INFO  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-16 15:55:43 [restartedMain] INFO  : Started LoggingAndActuatorApplication in 5.329 seconds (process running for 7.529)
+2024-09-16 15:55:44 [RMI TCP Connection(3)-192.168.1.76] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-16 15:55:44 [RMI TCP Connection(3)-192.168.1.76] INFO  : Initializing Servlet 'dispatcherServlet'
+2024-09-16 15:55:44 [RMI TCP Connection(3)-192.168.1.76] INFO  : Completed initialization in 5 ms
+2024-09-16 15:56:34 [http-nio-8080-exec-1] INFO  : Log level: INFO
+2024-09-16 15:56:34 [http-nio-8080-exec-1] ERROR : Log level: ERROR
+2024-09-16 15:56:34 [http-nio-8080-exec-1] WARN  : Log level: WARN
+2024-09-16 16:00:09 [restartedMain] INFO  : Starting LoggingAndActuatorApplication using Java 22.0.1 with PID 15824 (C:\Users\Gertrude\Downloads\LoggingAndActuator\LoggingAndActuator\target\classes started by Gertrude in C:\Users\Gertrude\Downloads\LoggingAndActuator\LoggingAndActuator)
+2024-09-16 16:00:09 [restartedMain] DEBUG : Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-16 16:00:09 [restartedMain] INFO  : No active profile set, falling back to 1 default profile: "default"
+2024-09-16 16:00:09 [restartedMain] INFO  : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-16 16:00:09 [restartedMain] INFO  : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-16 16:00:12 [restartedMain] INFO  : Tomcat initialized with port 8080 (http)
+2024-09-16 16:00:12 [restartedMain] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2024-09-16 16:00:12 [restartedMain] INFO  : Starting service [Tomcat]
+2024-09-16 16:00:12 [restartedMain] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-16 16:00:12 [restartedMain] INFO  : Initializing Spring embedded WebApplicationContext
+2024-09-16 16:00:12 [restartedMain] INFO  : Root WebApplicationContext: initialization completed in 2570 ms
+2024-09-16 16:00:13 [restartedMain] INFO  : LiveReload server is running on port 35729
+2024-09-16 16:00:13 [restartedMain] INFO  : Exposing 1 endpoint beneath base path '/actuator'
+2024-09-16 16:00:13 [restartedMain] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2024-09-16 16:00:13 [restartedMain] INFO  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-16 16:00:13 [restartedMain] INFO  : Started LoggingAndActuatorApplication in 4.768 seconds (process running for 5.956)
+2024-09-16 16:00:14 [RMI TCP Connection(2)-192.168.1.76] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-16 16:00:14 [RMI TCP Connection(2)-192.168.1.76] INFO  : Initializing Servlet 'dispatcherServlet'
+2024-09-16 16:00:14 [RMI TCP Connection(2)-192.168.1.76] INFO  : Completed initialization in 2 ms
+2024-09-16 16:00:46 [http-nio-8080-exec-1] INFO  : Log level: INFO
+2024-09-16 16:00:46 [http-nio-8080-exec-1] DEBUG : Log level: DEBUG
+2024-09-16 16:00:46 [http-nio-8080-exec-1] ERROR : Log level: ERROR
+2024-09-16 16:00:46 [http-nio-8080-exec-1] WARN  : Log level: WARN
+2024-09-16 16:02:37 [restartedMain] INFO  : Starting LoggingAndActuatorApplication using Java 22.0.1 with PID 18732 (C:\Users\Gertrude\Downloads\LoggingAndActuator\LoggingAndActuator\target\classes started by Gertrude in C:\Users\Gertrude\Downloads\LoggingAndActuator\LoggingAndActuator)
+2024-09-16 16:02:37 [restartedMain] DEBUG : Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-16 16:02:37 [restartedMain] INFO  : No active profile set, falling back to 1 default profile: "default"
+2024-09-16 16:02:37 [restartedMain] INFO  : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-16 16:02:37 [restartedMain] INFO  : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-16 16:02:40 [restartedMain] INFO  : Tomcat initialized with port 8080 (http)
+2024-09-16 16:02:40 [restartedMain] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2024-09-16 16:02:40 [restartedMain] INFO  : Starting service [Tomcat]
+2024-09-16 16:02:40 [restartedMain] INFO  : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-16 16:02:40 [restartedMain] INFO  : Initializing Spring embedded WebApplicationContext
+2024-09-16 16:02:40 [restartedMain] INFO  : Root WebApplicationContext: initialization completed in 2668 ms
+2024-09-16 16:02:41 [restartedMain] INFO  : LiveReload server is running on port 35729
+2024-09-16 16:02:41 [restartedMain] INFO  : Exposing 1 endpoint beneath base path '/actuator'
+2024-09-16 16:02:41 [restartedMain] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2024-09-16 16:02:41 [restartedMain] INFO  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-16 16:02:41 [restartedMain] INFO  : Started LoggingAndActuatorApplication in 4.884 seconds (process running for 6.017)
+2024-09-16 16:02:42 [RMI TCP Connection(2)-192.168.1.76] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-16 16:02:42 [RMI TCP Connection(2)-192.168.1.76] INFO  : Initializing Servlet 'dispatcherServlet'
+2024-09-16 16:02:42 [RMI TCP Connection(2)-192.168.1.76] INFO  : Completed initialization in 3 ms
+2024-09-16 17:41:33 [File Watcher] INFO  : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-09-16 17:41:33 [Thread-5] INFO  : Stopping ProtocolHandler ["http-nio-8080"]
